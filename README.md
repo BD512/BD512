@@ -1,3 +1,8 @@
+<html>
+  <body>
+<iframe src="https://www.codewars.com/users/Beth0975/badges/small" frameborder="0" allowfullscreen></iframe>
+    </body>
+</html>
 
 - 👋 Hi, I’m @BD512
 - 🌱 Currently learning python and java
