@@ -1,4 +1,4 @@
-![Codewars](https://www.codewars.com/users/Beth0975/badges/large)
+![Codewars](https://www.codewars.com/users/Beth0975/badges/small)
 - 👋 Hi, I’m @BD512
 - 🌱 Currently learning python and java
 
