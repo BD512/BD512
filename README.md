@@ -1,5 +1,4 @@
-<iframe src="https://www.codewars.com/users/Beth0975/badges/small" frameborder="0" allowfullscreen></iframe>
-https://www.codewars.com/users/Beth0975/badges/small
+
 - 👋 Hi, I’m @BD512
 - 🌱 Currently learning python and java
 
